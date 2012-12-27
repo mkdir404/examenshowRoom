@@ -1,7 +1,7 @@
 <?php 
 
 
-/*class ShowRoom {
+class ShowRoom {
 
 
 public function dbConexion($host,$usuario,$pass,$dbName)
@@ -23,7 +23,7 @@ $ShowRoom = new ShowRoom;
 
 $ShowRoom->dbConexion('localhost','root','root','Proveedores');
 
-*/
+
 
 
 
