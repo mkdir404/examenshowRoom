@@ -4,7 +4,7 @@ include 'ShowRoom.php';
 
 $ShowRoom = new ShowRoom;
 
-$ShowRoom->dbConexion('localhost','root','root','Proveedores');
+/*$ShowRoom->dbConexion('localhost','root','root','Proveedores');
 $ShowRoom->dbConexion('localhost','root','root','clientes');
 	
 echo mysql_result(mysql_query('SELECT t1.nombre as db_1  , t2.nombre as db_2 FROM Proveedores.usuarios 
